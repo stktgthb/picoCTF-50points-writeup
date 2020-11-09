@@ -2,7 +2,7 @@
 
 ## Description
 
-This garden contains more than it seems.(The garden picture is available on picoCTF.)
+This [garden](https://github.com/stktgthb/picoCTF-50points-writeup/blob/main/picoCTF_50points_writeup/Forensics/garden.jpg) contains more than it seems.(The garden picture is available on picoCTF.)
 
 ## Solution
 
